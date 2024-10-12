@@ -1,6 +1,6 @@
-# Niladri Das | CCNA
+# CCNA Lab
 
-[LinkedIn](https://www.linkedin.com/in/niladrridas/)
+[LinkedIn](https://www.linkedin.com/in/bniladridas/)
 
 ## Usage
 
